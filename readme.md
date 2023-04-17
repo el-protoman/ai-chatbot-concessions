@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-```bash
+```bashgitgit
 npm run dev
 # or
 yarn dev
@@ -38,4 +38,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Getting Started on Backend
-
+Download NodeJS from https://nodejs.org/en/ and clone git clone https://github.com/openai/openai-quickstart-node.git
