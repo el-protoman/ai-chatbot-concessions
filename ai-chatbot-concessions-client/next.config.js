@@ -5,8 +5,8 @@ const nextConfig = {
   assetPrefix: '/ai-chatbot-concessions/',
 };
 
-module.exports = {
-  distDir: 'build',
-}
+// module.exports = {
+//   distDir: 'build',
+// }
 
-//module.exports = nextConfig
+module.exports = nextConfig
