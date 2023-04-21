@@ -39,3 +39,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Getting Started on Backend
 Download NodeJS from https://nodejs.org/en/ and clone git clone https://github.com/openai/openai-quickstart-node.git
+
+Add Analytics
+Add Web Analytics to your project in three steps. Follow the steps below, and you’ll start collecting insights.
+
+1
+Install the @vercel/analytics package
+
+2
+Import and initialize the package inside your project https://vercel.com/docs/concepts/analytics/quickstart
+
+3
+Deploy your changes and visit your site https://ai-chatbot-concessions.vercel.app/
